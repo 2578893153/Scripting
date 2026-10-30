@@ -1,0 +1,41 @@
+{
+  "entry" : "index.tsx",
+  "contributors" : [
+
+  ],
+  "runInApp" : false,
+  "remoteResource" : null,
+  "localizedDescriptions" : {
+    "it" : "",
+    "fr" : "",
+    "de" : "",
+    "en" : "Unified vehicle widget with automatic provider detection",
+    "zh" : "自动识别奥智联与奥捷智行 Token，统一车辆小组件与控车功能",
+    "es" : "",
+    "ja" : "",
+    "ru" : "",
+    "pt" : ""
+  },
+  "intentInputTypes" : [
+
+  ],
+  "version" : "4.2.0",
+  "localizedNames" : {
+    "ru" : "",
+    "fr" : "",
+    "ja" : "",
+    "en" : "CarLink",
+    "it" : "",
+    "pt" : "",
+    "zh" : "小组件车联",
+    "es" : "",
+    "de" : ""
+  },
+  "name" : "小组件车联",
+  "description" : "主体框架为[好运]搭建，协同优化[飛][白]，欢迎后续开发者，提供新思路，新玩法",
+  "permissions" : null,
+  "color" : "#1F3A5F",
+  "icon" : "car.fill",
+  "author" : null,
+  "iconImage" : ""
+}
